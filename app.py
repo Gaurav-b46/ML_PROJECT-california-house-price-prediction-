@@ -62,6 +62,7 @@ if price>0:
     st.success(body)
     
 else:
-    body="Incalid House feature"
+    body="Invalid House feature"
 
     st.warning(body)
+
